@@ -1,0 +1,59 @@
+
+{
+  "folders": [
+    {
+      "path": "daPlanets.client",
+      "name": "client"
+    },
+    {
+      "path": "daPlanets",
+      "name": "server"
+    }
+  ],
+  "settings": {
+    "editor.suggestSelection": "first",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "files.exclude": {
+      "**/.nyc_*": true,
+      "**/coverage": true,
+      "**/node_modules": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#6028f8",
+      "activityBar.background": "#6028f8",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#f85f27",
+      "activityBarBadge.foreground": "#15202b",
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#6028f8",
+      "statusBar.background": "#4307e7",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#6028f8",
+      "statusBarItem.remoteBackground": "#4307e7",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#4307e7",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#4307e799",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4307e7"
+  }
+}
